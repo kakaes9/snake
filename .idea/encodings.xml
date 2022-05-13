@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/wr/game/Snake.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/game/SnakePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/game/Test02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/images/body.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/images/down.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/images/food.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/images/left.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/images/right.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wr/images/up.png" charset="GBK" />
+  </component>
+</project>
