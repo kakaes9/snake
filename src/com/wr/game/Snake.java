@@ -26,5 +26,7 @@ public class Snake {
         jFrame.add(snakePanel);
         //设置窗体可见
         jFrame.setVisible(true);
+
+        System.out.println();
     }
 }
