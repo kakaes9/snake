@@ -27,6 +27,6 @@ public class Snake {
         //设置窗体可见
         jFrame.setVisible(true);
 
-        System.out.println();
+        System.out.println("启动贪吃蛇");
     }
 }
